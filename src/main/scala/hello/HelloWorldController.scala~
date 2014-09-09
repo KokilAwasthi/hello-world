@@ -1,0 +1,5 @@
+@RestController
+Class HelloWorldController {
+ @RequestMapping(Array("/")
+  def main() : String = {"hello world"}
+}
