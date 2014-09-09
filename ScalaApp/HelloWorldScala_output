@@ -1,0 +1,10 @@
+:compileJava UP-TO-DATE
+:compileScala UP-TO-DATE
+:processResources UP-TO-DATE
+:classes UP-TO-DATE
+:run
+Hello, world
+
+BUILD SUCCESSFUL
+
+Total time: 30.611 secs
